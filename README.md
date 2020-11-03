@@ -349,7 +349,7 @@ Carrito en el circuito de pelotitas:
 
 Circuito de pelotitas de plástico de 7cm de diámetro:
 
-![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/car_circuit.jpeg)
+![](https://github.com/FernandoCallasaca/CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV/blob/main/Images/camino_pelotitas.jpeg)
 
 > Construido por nuestra compañera Fiorela.
 
