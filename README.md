@@ -12,7 +12,7 @@
 - MENDOZA CJUIRO, NILO FIDEL       -  144987
 - SERRANO AMAU, FIORELA ELOISA     -  133968
 
-#### Descripción Proyecto
+#### Presentación
 
 Este trabajo está elaborado por alumnos de la Escuela Profesional de Ingeniería Informática y de Sistemas de la Universidad Nacional de San Antonio Abad del Cusco, los aportes vertidos aquí, están cimentados en conocimientos previos que se impartieron en la escuela profesional, además de investigación continua y asesoría de amigos, docentes, entre otros. El presente trabajo es parte de un proyecto mucho más grande, cuya finalidad está orientado a los estudiantes y es tener una idea latente de las capacidades de la robótica, conocer las aplicaciones de esta y, de ser posible, aportar con la mejora en el campo de la robótica.
  
