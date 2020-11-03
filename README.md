@@ -1,5 +1,4 @@
 # CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV
-# Problema de Esquina y Callejón
 
 ### Universidad Nacional de San Antonio Abad del Cusco (UNSAAC)
 ### Departamento Académico de Informática
@@ -336,19 +335,19 @@ cv2.destroyAllWindows()
 
 ## Imágenes del Proyecto
 
-Circuito:
-
-![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/circuit.jpeg)
-
-> Construido por nuestra compañera Fiorela.
-
 Carrito:
 
-![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/car.jpeg)
+![](https://github.com/FernandoCallasaca/CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV/blob/main/Images/carrito.jpeg)
 
 > Construido por nuestra compañera Fiorela.
 
-Carrito en nuestro circuito:
+Carrito en el circuito de pelotitas:
+
+![](https://github.com/FernandoCallasaca/CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV/blob/main/Images/carrito_pelotitas.jpeg)
+
+> Construido por nuestra compañera Fiorela.
+
+Circuito de pelotitas de plástico de 7cm de diámetro:
 
 ![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/car_circuit.jpeg)
 
@@ -356,8 +355,12 @@ Carrito en nuestro circuito:
 
 Diagrama de Flujo:
 
-![](https://github.com/FernandoCallasaca/Problema-de-esquina-y-callejon---Robotica/blob/main/Images/diagram.jpeg)
+![](https://github.com/FernandoCallasaca/CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV/blob/main/Images/diagrama_flujo.jpeg)
+
+> Construido por nuestro compañero Rony Bolaños.
+
+Diagrama del Circuito:
+
+![](https://github.com/FernandoCallasaca/CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV/blob/main/Images/diagrama_circuito.jpeg)
 
 > Construido por nuestro compañero Jerry Anderson.
-
-
