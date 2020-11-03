@@ -357,7 +357,7 @@ Ejecución en tiempo real:
 
 ![](https://github.com/FernandoCallasaca/CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV/blob/main/Images/ejecicion_algoritmo.jpeg)
 
-> Construido por nuestra compañera Fiorela.
+> Construido por todos los integrantes del team Asgardianos.
 
 Diagrama de Flujo:
 
