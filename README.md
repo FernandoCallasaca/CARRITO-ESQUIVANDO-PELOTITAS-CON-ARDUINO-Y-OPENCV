@@ -353,6 +353,12 @@ Circuito de pelotitas de plástico de 7cm de diámetro:
 
 > Construido por nuestra compañera Fiorela.
 
+Ejecución en tiempo real:
+
+![](https://github.com/FernandoCallasaca/CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV/blob/main/Images/ejecicion_algoritmo.jpeg)
+
+> Construido por nuestra compañera Fiorela.
+
 Diagrama de Flujo:
 
 ![](https://github.com/FernandoCallasaca/CARRITO-ESQUIVANDO-PELOTITAS-CON-ARDUINO-Y-OPENCV/blob/main/Images/diagrama_flujo.jpeg)
